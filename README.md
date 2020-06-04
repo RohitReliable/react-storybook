@@ -2,7 +2,7 @@ Storybook is a UI development environment and UI component. Storybook enbles use
 and iteract with component in an isolated development environment.
 
 ### Install
-$ git clone https://github.com/Reactongraph/react-storybook.git<br>
+$ git clone https://github.com/RohitReliable/react-storybook.git<br>
 $ cd react-storybook<br>
 $ npm install or yarn<br>
 
